@@ -1,5 +1,4 @@
 
-
 //public final class Pokemon {
 public abstract class Pokemon {
     //private int level;
