@@ -19,15 +19,16 @@ public class PokemonGame {
         }
 
         // 플레이어 포켓몬스터 선택
+        Pokemon player;
         Scanner scanner = new Scanner(System.in);
         System.out.println("포켓몬을 고르세요. \n1) 피카츄  2) 꼬부기 3) 리자몽 : ");
         int PokemonPick = scanner.nextInt();
         if (PokemonPick == 1) {
-            Pikachu p1 = new Pikachu(new NoFly());
+            player p1 = new Pikachu(new NoFly());
         } else if (PokemonPick == 2) {
-            Squirtle p2 = new Squirtle(new NoFly());
+            player p2 = new Squirtle(new NoFly());
         } else if (PokemonPick == 3) {
-            Charizard p3 = new Charizard(new Wings());
+            player p3 = new Charizard(new Wings());
         } else {
             System.out.println("정상적인 값이 아닙니다!");
         }
@@ -37,6 +38,7 @@ public class PokemonGame {
             System.out.print("\t1) 전투  2) 도망   3) 종료 : ");
             menu = scanner.nextInt();
             if (menu == 1) {
+                player.attack();
 
             } else if (menu == 2) {
             } else {
