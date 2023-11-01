@@ -1,4 +1,4 @@
-package Pokemonster;
+package fly;
 public interface Flyable {
 //    public Flyable(){
 //

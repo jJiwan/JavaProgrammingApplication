@@ -1,5 +1,7 @@
 package Pokemonster;
 
+import fly.Flyable;
+
 import java.util.ArrayList;
 
 public class Squirtle extends Pokemon{
