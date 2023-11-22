@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b67d5da-4e7f-4f80-8ac2-f757d1beccca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FunctionallnterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/PokemonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/src/PokemonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Balloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Balloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Charizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Charizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/JetPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/JetPack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/NoFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/NoFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Pikachu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Pikachu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/PokemonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/PokemonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Squirtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Squirtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/Wings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/src/Wings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Balloon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Charizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/JetPack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/NoFly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Pikachu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/PokemonGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Squirtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week06/src/Wings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week08/src/Pokemonster/PokemonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week08/src/Pokemonster/PokemonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week11/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/PepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/SimplePizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version1/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version1/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/DependentPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/DependentPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/NYStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week11_it_english/src/version2/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week11_it_english/src/version2/PizzaTestDrive.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2YW4hHjxnBOAGLyICdj12arerdA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b67d5da-4e7f-4f80-8ac2-f757d1beccca" name="Changes" comment="" />
+      <created>1700628119761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700628119761</updated>
+    </task>
+    <servers />
+  </component>
+</project>
