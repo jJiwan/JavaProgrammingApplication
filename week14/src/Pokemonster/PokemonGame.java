@@ -62,6 +62,8 @@ public class PokemonGame {
                             System.out.println(++i + ") " + s);
                         });
 
+                        //stream 시험 나옴
+
                         skillMenu = scanner.nextInt();
                         if (skillMenu <= player.skills.size())
                         {
